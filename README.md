@@ -13,7 +13,7 @@
 <div>
   <a href="https://github.com/PedrixPH">
   <img height="188em" src="https://github-readme-stats.vercel.app/api?username=PedrixPH&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="188en" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrixPH&layout=compact&langs_count=16&theme=darcula&card_width=180" />
+  <img height="188en" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrixPH&layout=compact&langs_count=16&theme=darcula&card_width=150" />
 </div>
 
 <div style="display: inline_block"><br>
