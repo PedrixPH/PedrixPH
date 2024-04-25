@@ -13,7 +13,7 @@
 <div>
   <a href="https://github.com/PedrixPH">
   <img height="188em" src="https://github-readme-stats.vercel.app/api?username=PedrixPH&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="188en" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrixPH&layout=compact&langs_count=7&theme=darcula&card_width=360"/>
+  <img height="188en" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrixPH&layout=compact&langs_count=7&theme=darcula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -24,6 +24,7 @@
 
 ##
 
+<br>
 <div>
   <a href="https://www.linkedin.com/in/pedro-h-taveira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:pedrotaveiradev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
