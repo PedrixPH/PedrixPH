@@ -32,9 +32,3 @@
   <a href="https://www.instagram.com/podrezito/" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
   <a href="https://discordapp.com/users/1222014034656886828" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
-
-<div><br>
-  
-![Snake animation](https://github.com/PedrixPH/PedrixPH/blob/output/github-contribution-grid-snake.svg)
-
-</div>
